@@ -1,0 +1,23 @@
+---
+settings:
+  name: BlueXP software updates
+  platform: cloud
+  internal:
+    pdf_enabled: true
+  prod:
+    pdf_enabled: true
+    harmony_enabled: false
+  langs: ja-jp,us-en,ko-kr,zh-cn,zh-tw,de-de,es-es,fr-fr,it-it
+sidebar:
+  entries:
+  - title: BlueXP  ソフトウェアアップデートドキュメント
+    url: "/index.html"
+  - section: release-notes
+  - section: get-started
+  - section: ontap
+  - section: support
+  - title: 法的通知
+    url: "/legal-notices.html"
+product-family:
+  name: BlueXP
+  repo: bluexp-family

@@ -1,0 +1,22 @@
+---
+sidebar: sidebar 
+permalink: ONTAP/validate-storage-system-update.html 
+keywords: validate status of ontap update, track status of ontap update 
+summary: ONTAPの更新のステータスを検証して、次の手順を決定します。 
+---
+= ONTAPストレージシステムの更新ステータスの検証
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/
+
+
+[role="lead"]
+ONTAPの更新プロセスが完了したら、ONTAPの更新ステータスを確認する必要があります。
+
+.手順
+. BlueXP  の左側のナビゲーションで、*[ヘルス]>[ソフトウェアアップデート]*を選択します。
+. ONTAPアップデートのステータスを表示するには、*履歴*タブをクリックします。
+
+
+
+NOTE: クラスタが[History]タブに反映されるまでに2~3時間かかります。

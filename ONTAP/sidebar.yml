@@ -1,0 +1,12 @@
+---
+section: ontap
+title: BlueXP  ソフトウェアアップデートの使用
+entries:
+- title: ONTAPターゲットバージョンを選択
+  url: "/ONTAP/choose-ontap-910-later.html"
+- title: ONTAPブロッカーを修正し、警告を承認する
+  url: "/ONTAP/fix-blockers-warnings.html"
+- title: ONTAPストレージシステムの更新後の処理
+  url: "/ONTAP/update-storage-system.html"
+- title: ONTAPストレージシステムの更新ステータスの検証
+  url: "/ONTAP/validate-storage-system-update.html"

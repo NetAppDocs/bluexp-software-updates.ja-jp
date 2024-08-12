@@ -1,0 +1,28 @@
+---
+sidebar: sidebar 
+permalink: ONTAP/update-storage-system.html 
+keywords: update ontap storage system 
+summary: ONTAPストレージシステムを更新して、新機能や拡張された機能を活用してください。 
+---
+= ONTAPストレージシステムの更新後の処理
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/
+
+
+[role="lead"]
+ONTAPターゲットのバージョンを特定し、ブロックを修正して確認したら、ONTAPストレージシステムの更新を完了できます。
+
+.手順
+. BlueXP  の左側のナビゲーションで、*[ヘルス]>[ソフトウェアアップデート]*を選択します。
++
+ソフトウェアの更新が必要なクラスタのリストが表示されます。
+
+. ストレージシステムのONTAPターゲットのバージョンを確認します。ONTAPターゲットバージョンの識別については、を参照してください link:../ONTAP/choose-ontap-910-later.html["ONTAPターゲットのバージョン9.10以降を選択"]。
+. ONTAPブロッカーを修正して承認します。ブロッカーの修正については、を参照してください link:../ONTAP/fix-blockers-warnings.html["ONTAPブロッカーの修正と承認"]。
+. エンドユーザライセンス契約を読んで同意します。
++
+ONTAPイメージが取得されるまで待ちます。
+
+. [アップデートのインストール]*をクリックして、アップデートプロセスを完了します。
+

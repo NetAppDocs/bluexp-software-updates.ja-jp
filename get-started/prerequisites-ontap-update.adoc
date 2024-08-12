@@ -1,0 +1,25 @@
+---
+sidebar: sidebar 
+permalink: get-started/prerequisites-ontap-update.html 
+keywords: prerequisites for ontap update, ontap update requirements, ontap update versions 
+summary: ONTAPの更新に進む前に、前提条件と要件を確認してください。 
+---
+= BlueXP  ソフトウェアの更新を使用してONTAPを更新するための前提条件
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/
+
+
+[role="lead"]
+まず、運用環境、ログイン、ネットワークアクセス、Webブラウザの準備状況を確認します。
+
+BlueXP  ソフトウェアの更新を使用するには、ご使用の環境がすべての要件を満たしていることを確認する必要があります。
+
+* 有効なBlueXP  アカウントが必要です。
+* 作業環境はBlueXP  でセットアップします。
+* System Managerを使用して、Administrator Privilegesからソフトウェアの更新を実行できます。
+* ソフトウェアの更新の実行時に、目的のクラスタの管理者クレデンシャルを使用できます。
+* クラスタ内のすべてのノードがAutoSupportデータを送信しています。
+* すべてのノードがONTAP 9.10以降のバージョンで実行されている必要があります。
+* ノードがMetroCluster構成に含まれていないことを確認します。
+
