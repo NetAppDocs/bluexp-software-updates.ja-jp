@@ -31,7 +31,7 @@ BlueXP  コンソールにアクセスするには、ブラウザで次のよ�
 
 *アップデートごとに異なる画面が表示されるのはなぜですか？*
 
-これは、現在のONTAPバージョンとクラスタ用のBlueXP  Connectorを使用できないためです。BlueXP  ConnectorはBlueXP  内でONTAPの更新を実行するため、更新のためにBlueXP  から移動する必要はありません。ONTAPのバージョンごとのONTAP更新プロセスの詳細については、を参照してください link:https://docs.netapp.com/us-en/bluexp-software-updates/get-started/software-updates.html["サポート対象の ONTAP システム"]。
+これは、現在のONTAPバージョンとクラスタ用のBlueXP  Connectorを使用できないためです。BlueXP  ConnectorはBlueXP  内でONTAPの更新を実行するため、更新のためにBlueXP  から移動する必要はありません。BlueXP  Connectorがない場合はSystem Managerにリダイレクトされ、ONTAPクラスタのクレデンシャルを再入力する必要があります。ONTAPのバージョンごとのONTAP更新プロセスの詳細については、を参照してください link:https://docs.netapp.com/us-en/bluexp-software-updates/get-started/software-updates.html["サポート対象の ONTAP システム"]。
 
 *クラスタを検出するには何が必要ですか？*
 

@@ -100,7 +100,6 @@
   <block id="fb1a576523e6d98a2637113b1f2ddc77" category="paragraph">*クラスタのONTAPバージョンを更新しても、ソフトウェア更新ダッシュボードに古いバージョンのONTAPが表示されるのはなぜですか。*</block>
   <block id="cd7a9b3aab856990de5540e448854d37" category="paragraph">*アップデートごとに異なる画面が表示されるのはなぜですか？*</block>
   <block id="696fbf3ecd0e89c737f9c5b7adddfb8e" category="inline-link-macro">サポート対象の ONTAP システム</block>
-  <block id="9acf8bc64d0336944e98a10c4b868c28" category="paragraph">これは、現在のONTAPバージョンとクラスタ用のBlueXP  Connectorを使用できないためです。BlueXP  ConnectorはBlueXP  内でONTAPの更新を実行するため、更新のためにBlueXP  から移動する必要はありません。ONTAPのバージョンごとのONTAP更新プロセスの詳細については、を参照してください <block ref="9368a1ed7fc94ef1fa0dd54dc646113b" category="inline-link-macro-rx"></block>。</block>
   <block id="301053661b8bcb5b62150d8c97038d47" category="paragraph">*クラスタを検出するには何が必要ですか？*</block>
   <block id="78a404dc6fcc27f5f6c067b96fa1a926" category="paragraph">目的のクラスタでONTAPの更新を実行するには、クラスタに接続するためのONTAPクラスタIPとadminクレデンシャルが必要です。クラスタ検出の一環として、ONTAPの更新が自動的に実行されるように、これらの詳細を指定する必要があります。</block>
   <block id="eae99a51790faa39ba0454fb4f00a5b8" category="summary">BlueXP  ソフトウェアアップデートを使用して、ONTAPストレージシステムをシームレスに更新し、新機能や強化された機能を利用できます。</block>
@@ -337,4 +336,5 @@
   <block id="7d0ee6fed10d3d4e5c9ee496729ab519" category="sidebar">リリースノート</block>
   <block id="33871b6190a8d5adbe8b15282054766c" category="sidebar">新機能</block>
   <block id="0adc03eac86772ad2c75c8f140be417e" category="sidebar">知識とサポート</block>
+  <block id="e9286f8f31c5b4b57dc1c4b27396c2bf" category="paragraph">これは、現在のONTAPバージョンとクラスタ用のBlueXP  Connectorを使用できないためです。BlueXP  ConnectorはBlueXP  内でONTAPの更新を実行するため、更新のためにBlueXP  から移動する必要はありません。BlueXP  Connectorがない場合はSystem Managerにリダイレクトされ、ONTAPクラスタのクレデンシャルを再入力する必要があります。ONTAPのバージョンごとのONTAP更新プロセスの詳細については、を参照してください <block ref="9368a1ed7fc94ef1fa0dd54dc646113b" category="inline-link-macro-rx"></block>。</block>
 </blocks>
