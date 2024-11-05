@@ -1,21 +1,6 @@
----
-sidebar: sidebar 
-permalink: release-notes/whats-new.html 
-keywords: software updates, ontap update 
-summary: BlueXP  ソフトウェアの更新で導入された新機能と機能拡張について説明します。 
----
-= BlueXP  ソフトウェアアップデートの新機能
+= ONTAPの更新
 :allow-uri-read: 
-:icons: font
-:imagesdir: ../media/
 
-
-[role="lead"]
-BlueXP  ソフトウェアアップデートの新機能をご紹介します。
-
-
-
-== 2024年8月7日
 
 
 

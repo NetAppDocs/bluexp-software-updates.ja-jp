@@ -155,7 +155,6 @@
   <block id="a262e6e8b2140ed65b4662f6ea3826e9" category="section-title">ONTAPの更新</block>
   <block id="bfcca17c4ea8c7320a1a54960ce35444" category="paragraph">BlueXP  ソフトウェアアップデートサービスは、リスクを軽減し、お客様がONTAPの機能を十分に活用できるようにすることで、シームレスなアップデートエクスペリエンスをユーザに提供します。</block>
   <block id="8e28797de414b72e6beab6ed5932133f" category="inline-link-macro">BlueXP  ソフトウェアアップデート</block>
-  <block id="3b51dbc206ff39db31b586cff27b62b6" category="paragraph">詳細については、をご覧ください <block ref="5932964ef1a5389f9863c988396d1e93" category="inline-link-macro-rx"></block>。</block>
   <block id="c9df4195a305212ffd7b56d24f67129d" category="summary">ネットアップでは、さまざまな方法でBlueXPをサポートしています。ナレッジベース（ KB ）記事やコミュニティフォーラムなど、 24 時間 365 日利用可能な幅広いセルフサポートオプションをご用意しています。サポート登録には、 Web チケット処理によるリモートテクニカルサポートが含まれます。</block>
   <block id="fabfc25ef8996fd90836e58a4c0b26b6" category="doc">ヘルプを表示します</block>
   <block id="7c5661ab6b39ee901cea00a6e7020a49" category="paragraph">ネットアップでは、BlueXPとその クラウド サービス をさまざまな方法でサポートしています。ナレッジベース（ KB ）記事やコミュニティフォーラムなど、 24 時間 365 日利用可能な幅広いセルフサポートオプションをご用意しています。サポート登録には、 Web チケット処理によるリモートテクニカルサポートが含まれます。</block>
@@ -337,4 +336,5 @@
   <block id="0ca08a23718c0a91743dd6c0146ca353" category="paragraph">Cloud Volumes ONTAPで次の主要なワークフローを有効にするには、NetAppサポートサイトのクレデンシャルをBlueXP  組織に関連付ける必要があります。</block>
   <block id="c81c8e01f5d906ae1ab0c5c606f06b05" category="paragraph">NSSクレデンシャルとBlueXP  組織の関連付けは、BlueXP  ユーザログインに関連付けられたNSSアカウントとは異なります。</block>
   <block id="8166996cb4a59c147200d89a061bb49c" category="paragraph">これらのNSSクレデンシャルは、特定のBlueXP  組織IDに関連付けられています。BlueXP  組織に属するユーザは、*[サポート]&gt;[NSS管理]*からこれらのクレデンシャルにアクセスできます。</block>
+  <block id="cf3625b0846a5497dd36ab2220da602a" category="paragraph">詳細については、をご覧ください <block ref="4ef0c81e219f07a508ae115770245e4e" category="inline-link-macro-rx"></block>。</block>
 </blocks>
