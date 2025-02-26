@@ -2,7 +2,6 @@
 <blocks>
   <block id="f6f16bb8e1efb9727b0dcf9a90373ffb" category="summary">ONTAPストレージシステムをアップグレードする前に、ONTAPの各バージョンのメリットとリスクを理解してください。</block>
   <block id="3e01b70f098c97a8e8c6a729636b23d4" category="doc">ONTAPターゲットのバージョン9.10以降を選択</block>
-  <block id="b1a7397c6fa96ca3e42a2fb189b81d51" category="paragraph">ストレージシステムのONTAPバージョンを選択する前に、メリットを特定し、ONTAPターゲットバージョンに関連するリスクを理解しておくことが非常に重要です。</block>
   <block id="0634e55ef28524df4ddd4c1ddfd72bdd" category="paragraph">ターゲットバージョンを選択して現在のバージョンと比較すると、ONTAPの特定のバージョンに更新するメリットを確認できます。また、ONTAPの特定のバージョンへの更新時に解決されるリスクと新しいリスク（存在する場合）を確認することもできます。</block>
   <block id="74083ab8069d07080edb25320474b13b" category="admonition">この機能は、ONTAP 9.10以降のバージョンを実行している場合にのみ使用できます。</block>
   <block id="f3a29486bed19a90f2da6d007818b427" category="list-title">手順</block>
@@ -24,7 +23,6 @@
   <block id="7d73325ccb71b4870e81c3c8734ba56e" category="paragraph">ONTAPストレージシステムのONTAPターゲットバージョンを特定したら、ONTAPストレージシステムを更新する前に、すべてのブロッカーを修正して承認し、警告を確認する必要があります。</block>
   <block id="2458f462c36fbeec4b6536099135f298" category="paragraph">すべてのブロッカーを修正して承認することは必須であり、シームレスなソフトウェア更新プロセスを保証します。</block>
   <block id="a710a4a4b33a19ce9678b290e8622101" category="paragraph">ソフトウェアの更新が必要なクラスタのリストが表示されます。</block>
-  <block id="e11cab9533afda7fed240f31c60b96f3" category="list-text">ストレージシステムのONTAPターゲットのバージョンを確認します。ONTAPターゲットバージョンの識別については、を参照してください <block ref="538e53c5274334201439b22929ae7c33" category="inline-link-macro-rx"></block>。</block>
   <block id="06cd15ffbdad395f54961af4b4da3f7d" category="list-text">ONTAPのターゲットバージョンを決定したら、*[更新の準備]*をクリックして更新プロセスを開始します。</block>
   <block id="921328cf9f5d7f1029ee8f2b5eb6add6" category="paragraph">ブロッカーと警告のリストが表示されます。</block>
   <block id="0d3e45ea704fa7abdf905562392b0203" category="list-text">ブロッカーを選択して、ブロッカーを修正する手順を表示します。</block>
@@ -36,29 +34,22 @@
   <block id="5143d195cc41390e0e4722e37a8b670d" category="list-text">[更新を続行する]*をクリックして、更新プロセスを続行します。</block>
   <block id="0fd40a88a795a27afa35dc3e7dbce97c" category="summary">ONTAPストレージシステムを更新して、新機能や拡張された機能を活用してください。</block>
   <block id="ef54c6082f1b8fb3ea432a9b7cdce377" category="doc">ONTAPストレージシステムの更新後の処理</block>
-  <block id="4069d368e6b24c7032f0eedc33a1601d" category="paragraph">ONTAPターゲットのバージョンを特定し、ブロックを修正して確認したら、ONTAPストレージシステムの更新を完了できます。</block>
-  <block id="5095c7afe8ce77fcc7b92f22c350fe82" category="list-text">ONTAPブロッカーを修正して承認します。ブロッカーの修正については、を参照してください <block ref="d61905fe2b2d7d79294414b81cd336cb" category="inline-link-macro-rx"></block>。</block>
   <block id="84159d0a25239d2d4573172d023c46e7" category="list-text">エンドユーザライセンス契約を読んで同意します。</block>
   <block id="7e6935bb4ba08bd2b040fec7140cefe8" category="paragraph">ONTAPイメージが取得されるまで待ちます。</block>
   <block id="b707a048aebf6a3d5685827572cc3de1" category="list-text">[アップデートのインストール]*をクリックして、アップデートプロセスを完了します。</block>
   <block id="2086b43ba817368b623c8b845f4a2c86" category="summary">ONTAPの更新のステータスを検証して、次の手順を決定します。</block>
   <block id="2cffa96ea0fb9d5b545b8cc40a61d4a3" category="doc">ONTAPストレージシステムの更新ステータスの検証</block>
-  <block id="7735ef900b37ebdc5493537c82501786" category="paragraph">ONTAPの更新プロセスが完了したら、ONTAPの更新ステータスを確認する必要があります。</block>
   <block id="82eb3f6374cb74069e9ac86a78c4c7b7" category="list-text">ONTAPアップデートのステータスを表示するには、*履歴*タブをクリックします。</block>
   <block id="0ca4b31fab05c7c65ce3168c99116299" category="admonition">クラスタが[History]タブに反映されるまでに2~3時間かかります。</block>
   <block id="f01ff61f665dc565b36723f4f7ba7acb" category="summary">ログインして、BlueXP  ソフトウェアアップデートサービスにアクセスします。</block>
   <block id="620719f65d1fb1b1420157fab1aa5208" category="doc">BlueXP  ソフトウェアアップデートへのアクセス</block>
-  <block id="1686b410540845de1f8283165293bd1a" category="paragraph">BlueXP  ソフトウェアの更新を使用するには、NetApp BlueXP  にログインします。</block>
   <block id="8e917942a77709dfd28c155f42a97553" category="inline-link-macro">ログインの詳細については、こちらをご覧ください</block>
-  <block id="315c997f74955c2a02119a24a36df47e" category="paragraph">BlueXPにログインするには、NetApp Support Site のクレデンシャルを使用するか、Eメールとパスワードを使用してネットアップクラウドへのログインにサインアップします。<block ref="b81c2771e4fb9546e28e2b4e920d2ca5" category="inline-link-macro-rx"></block>です。</block>
   <block id="5975f7e9036c78e6217b16f295f0ca75" category="inline-link-macro">BlueXPコンソール</block>
   <block id="5d97159a9457a24e7a43d040b2d4b33f" category="list-text">Webブラウザを開き、に移動します <block ref="046fd603b18837f482287e5ec741e5ed" category="inline-link-macro-rx"></block>。</block>
   <block id="753e3c2055278365db83b605f29d4860" category="paragraph">NetApp BlueXPのログインページが表示されます。</block>
   <block id="ad84736d27b7f84414783598f4ffd0d9" category="list-text">BlueXPにログインします。</block>
   <block id="24958f1bc0c9e80abac7daea72c06854" category="list-text">BlueXP  の左側のナビゲーションで、*[ヘルス]&gt;[ソフトウェアアップデート]を選択します。*</block>
   <block id="20b41c007263bf3cb834352319595be6" category="summary">ONTAPの更新に進む前に、前提条件と要件を確認してください。</block>
-  <block id="c68f0236667091f737bdf862786b96a8" category="doc">BlueXP  ソフトウェアの更新を使用してONTAPを更新するための前提条件</block>
-  <block id="84804abf3404a430e85ae3299587a6b0" category="paragraph">まず、運用環境、ログイン、ネットワークアクセス、Webブラウザの準備状況を確認します。</block>
   <block id="7efc4f28b854970100677afdf18e3743" category="paragraph">BlueXP  ソフトウェアの更新を使用するには、ご使用の環境がすべての要件を満たしていることを確認する必要があります。</block>
   <block id="f79a5712ad4df34137efe352ad13262f" category="list-text">System Managerを使用して、Administrator Privilegesからソフトウェアの更新を実行できます。</block>
   <block id="0a97d1300ce9361165541c64b6bd10b7" category="list-text">ソフトウェアの更新の実行時に、目的のクラスタの管理者クレデンシャルを使用できます。</block>
@@ -67,7 +58,6 @@
   <block id="8cb2d0d931dcf081c2e6cdb9235d0efa" category="list-text">ノードがMetroCluster構成に含まれていないことを確認します。</block>
   <block id="2dc7ae12158353c62d51898b1414574d" category="summary">ONTAPストレージシステムのシームレスかつ迅速な更新を開始します。</block>
   <block id="53e01f87a36e506053f9d6c3a230df29" category="doc">BlueXP  ソフトウェアアップデートを使用したONTAPアップデートのクイックスタート</block>
-  <block id="573c9d215bcc8c1dc02e08dfd5d679ec" category="paragraph">ここでは、BlueXP  ソフトウェアの更新を開始するために必要な手順の概要を示します。各ステップ内のリンクから、詳細が記載されたページに移動できます。</block>
   <block id="06c2cea18679d64399783748fa367bdd" category="inline-image-macro">1つ</block>
   <block id="a2d56436fc6737079209e6c74380c5fb" category="paragraph-title"><block ref="58f667aaf05f87159670e12bd9bc076b" category="inline-image-macro-rx" type="image"></block> 前提条件の確認</block>
   <block id="d73fd850784e1d8dbda69ab3ca51e7cf" category="inline-link-macro">環境がこれらの要件を満たしていることを確認します</block>
@@ -87,7 +77,6 @@
   <block id="20d07d8fbe66f0a93aa19234a6281583" category="paragraph"><block ref="64ffd4ac1c7206890e581f7b5a3f2be9" category="inline-link-macro-rx"></block>です。</block>
   <block id="b272f27e62779943682f53ea50ac3fd5" category="summary">BlueXP  ソフトウェアの更新に関するよくある質問とその回答をご覧ください。</block>
   <block id="9f908c51aaf72b8fdb723584bba658d1" category="doc">BlueXP  ソフトウェアの更新に関するよくある質問</block>
-  <block id="b1151aae9531d2f5e85d085e8878cea6" category="paragraph">この FAQ は、質問に対する簡単な回答を探している場合に役立ちます。</block>
   <block id="e56ded8fd48409401c6fff468729d8a6" category="paragraph">* BlueXP  ソフトウェア・アップデートのURLは何ですか？*</block>
   <block id="942a771213d3b59ba27960f61d97b1ac" category="inline-link"><block ref="942a771213d3b59ba27960f61d97b1ac" category="inline-link-rx"></block></block>
   <block id="97196dcbb301c06780e3699ce570a095" category="paragraph">BlueXP  コンソールにアクセスするには、ブラウザで次のように入力します。<block ref="6db7b50bf17b27cbede9f07c4fbc973e" category="inline-link-rx"></block></block>
@@ -102,8 +91,6 @@
   <block id="78a404dc6fcc27f5f6c067b96fa1a926" category="paragraph">目的のクラスタでONTAPの更新を実行するには、クラスタに接続するためのONTAPクラスタIPとadminクレデンシャルが必要です。クラスタ検出の一環として、ONTAPの更新が自動的に実行されるように、これらの詳細を指定する必要があります。</block>
   <block id="eae99a51790faa39ba0454fb4f00a5b8" category="summary">BlueXP  ソフトウェアアップデートを使用して、ONTAPストレージシステムをシームレスに更新し、新機能や強化された機能を利用できます。</block>
   <block id="4a4ca306c87f7718653f5a8ebca8584c" category="doc">BlueXP  ソフトウェアアップデートの詳細</block>
-  <block id="4baad46ac6519d24a604d0592262d3a2" category="paragraph">BlueXP  ソフトウェア更新を使用して、ONTAPストレージシステムを更新し、新機能や拡張された機能を利用することができます。これは、コストの削減、重要なワークロードの高速化、セキュリティの向上に役立ちます。</block>
-  <block id="140dd9258bb13766fefc6da02514ad8e" category="paragraph">BlueXP  ソフトウェア更新サービスを利用すると、ONTAPの更新を効率化できます。評価、計画、実行のプロセスを自動化します。Intelligent Upgrade Advisorは、特定の環境に最適なバージョンを予測し、問題の修正、効率の向上、システムセキュリティの向上を目的としたバージョンを推奨します。これにより、お客様はニーズに最適なオプションを判断できます。その後、ソフトウェアパッケージが配布され、サポートサービスとは関係なく、自動非配布アップグレード（ANDU）が自動的に実行されます。</block>
   <block id="933247e0be7796a309cfa4c95bd34938" category="section-title">サポートされるシステム</block>
   <block id="1a326a008d82e9276c86382d2622dbc4" category="section-title">ONTAPシステム</block>
   <block id="ce2747e858185215705d6b23a84eab2b" category="paragraph">BlueXP  ソフトウェア更新サービスを使用してONTAPの更新を完了できるのは、ONTAP 9.10以降のバージョンを実行している場合のみです。</block>
@@ -315,10 +302,7 @@
   <block id="ad203e818e0c9d7f42f1c260b33875f3" category="sidebar">クラウドに関する Web セミナー</block>
   <block id="bd10fd9cd73654d01bc6a7719a4f03c3" category="sidebar">BlueXP  ソフトウェアアップデートドキュメント</block>
   <block id="2b973f41c5b1f5465e41113e137d7a93" category="sidebar">BlueXP  ソフトウェアアップデートの使用</block>
-  <block id="c875e3d623333d854efa96be52543e6c" category="sidebar">ONTAPターゲットバージョンを選択</block>
   <block id="49ec4b514e47d3aeca96090e2282a2b0" category="sidebar">ONTAPブロッカーを修正し、警告を承認する</block>
-  <block id="043756462732d85786f9ee8ff131baeb" category="sidebar">ONTAPアップデートを開始する</block>
-  <block id="cfa9378dd942a8238f797353b6dd5400" category="sidebar">ONTAPの更新の詳細</block>
   <block id="483a5da192f46e3cfe8391d3ef234fc4" category="sidebar">FAQ</block>
   <block id="7d0ee6fed10d3d4e5c9ee496729ab519" category="sidebar">リリースノート</block>
   <block id="33871b6190a8d5adbe8b15282054766c" category="sidebar">新機能</block>
@@ -337,4 +321,24 @@
   <block id="c81c8e01f5d906ae1ab0c5c606f06b05" category="paragraph">NSSクレデンシャルとBlueXP  組織の関連付けは、BlueXP  ユーザログインに関連付けられたNSSアカウントとは異なります。</block>
   <block id="8166996cb4a59c147200d89a061bb49c" category="paragraph">これらのNSSクレデンシャルは、特定のBlueXP  組織IDに関連付けられています。BlueXP  組織に属するユーザは、*[サポート]&gt;[NSS管理]*からこれらのクレデンシャルにアクセスできます。</block>
   <block id="cf3625b0846a5497dd36ab2220da602a" category="paragraph">詳細については、をご覧ください <block ref="4ef0c81e219f07a508ae115770245e4e" category="inline-link-macro-rx"></block>。</block>
+  <block id="dd1f3e550c5e2f4725c15954d3d7ea2d" category="doc">BlueXP  ソフトウェアの更新を使用してONTAPのバージョンを比較し、メリットとリスクを確認</block>
+  <block id="49d68f82813e1841cdc24205608d8fe2" category="paragraph">ストレージシステムのONTAPバージョンを更新する前に、ONTAPターゲットバージョンのメリットとリスクを比較し、理解しておくことが非常に重要です。</block>
+  <block id="5555018124c02b21b3aaeedcef61f4fa" category="doc">ONTAPをアップグレードする前に、BlueXP  ソフトウェアアップデートを使用してすべてのブロッカーを修正</block>
+  <block id="db4b6d19a8d4d57e24b5828d0074143e" category="list-text">ストレージシステムのONTAPターゲットのバージョンを確認します。ONTAPターゲットバージョンの識別については、を参照してください <block ref="0f2a258e8994f78c1b1f17d43a16c513" category="inline-link-macro-rx"></block>。</block>
+  <block id="396bf64c6d994d797cb5742c6758418b" category="doc">BlueXP  ソフトウェアアップデートを使用してONTAPアップデートを開始する</block>
+  <block id="0ae470cfcd6da9622bf1c34549a18b77" category="paragraph">ONTAPターゲットのバージョンを特定し、ブロッカーを修正して確認したら、ONTAPストレージシステムの更新を開始できます。</block>
+  <block id="a4c20aefa4aa78b722a006d3390ac1cb" category="list-text">ONTAPブロッカーを修正して承認します。ブロッカーの修正については、を参照してください <block ref="6440b0843592ebb60c718c0b07809cb1" category="inline-link-macro-rx"></block>。</block>
+  <block id="5efd3bb225c7267020da770434ce3d85" category="paragraph">BlueXP  ソフトウェアの更新を使用して、ONTAPの更新ステータスを検証できます。</block>
+  <block id="937f4d5a34565b48f88d86bac89c78f6" category="doc">BlueXP  ソフトウェアアップデートにアクセスしてONTAPを更新</block>
+  <block id="6c269860f7beec4d28cbb4c480aec401" category="paragraph">BlueXP  ソフトウェアアップデートにアクセスするには、BlueXP  にログインする必要があります。</block>
+  <block id="257d03ea2eed4050a6e348b424d61c43" category="paragraph">ログインするには、NetAppサポートサイトのクレデンシャルを使用するか、Eメールアドレスとパスワードを使用してNetAppクラウドログインにサインアップします。<block ref="b81c2771e4fb9546e28e2b4e920d2ca5" category="inline-link-macro-rx"></block>です。</block>
+  <block id="61f62682b36d6aec10d0e3fdf7b80a02" category="doc">BlueXP  ソフトウェアの更新を使用してONTAPを更新する準備</block>
+  <block id="ceef21d867cd560c99b829957ac7c4ef" category="paragraph">ONTAPの更新に進む前に、前提条件と要件を確認する必要があります。BlueXP  ソフトウェアの更新を使用して、運用環境、ログイン、ネットワークアクセス、およびWebブラウザの準備状況を確認できます。</block>
+  <block id="b9055b7fdf4830bba7903d1ea2d1fec7" category="paragraph">ここでは、BlueXP  ソフトウェアの更新を迅速に開始するために必要な手順の概要を示します。各ステップ内のリンクから、詳細が記載されたページに移動できます。</block>
+  <block id="69f33badbace6451069f5a11aff02d64" category="paragraph">BlueXP  ソフトウェアの更新について詳しく知りたい場合や、トラブルシューティングについてサポートが必要な場合は、これらの質問を確認して回答を得ることができます。</block>
+  <block id="630082988db3654341e1bbfe1473ff34" category="paragraph">BlueXP  ソフトウェア更新サービスを使用すると、お客様がONTAPの更新を合理化できます。これは、コストの削減、重要なワークロードの高速化、セキュリティの向上に役立ちます。</block>
+  <block id="4bab70d11b4cca2a35de48f534070ddc" category="paragraph">BlueXP  ソフトウェア更新サービスは、評価、計画、実行のプロセスを自動化します。Intelligent Upgrade Advisorは、特定の環境に最適なバージョンを予測し、問題の修正、効率の向上、システムセキュリティの向上を目的としたバージョンを推奨します。これにより、お客様はニーズに最適なオプションを判断できます。その後、ソフトウェアパッケージが配布され、サポートサービスとは関係なく、自動非配布アップグレード（ANDU）が自動的に実行されます。</block>
+  <block id="dcfbeb8f1660c404fb401cb23dc4a928" category="sidebar">ONTAPのバージョンを比較して、更新のメリットとリスクを把握する</block>
+  <block id="4b826e35792ea987dc5df57d49d94c3e" category="sidebar">ONTAPストレージシステムの更新を開始する</block>
+  <block id="c979f283726214fd17da9716a48f78f0" category="sidebar">BlueXP  ソフトウェアの更新を開始する</block>
 </blocks>

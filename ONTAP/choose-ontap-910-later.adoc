@@ -1,17 +1,17 @@
 ---
 sidebar: sidebar 
 permalink: ONTAP/choose-ontap-910-later.html 
-keywords: choose ontap target version, ontap update recommendations, identify ontap target version 
+keywords: choose ontap target version, ontap update recommendations, identify ontap target version, recommended version, benefits and risks or ONTAP version 
 summary: ONTAPストレージシステムをアップグレードする前に、ONTAPの各バージョンのメリットとリスクを理解してください。 
 ---
-= ONTAPターゲットのバージョン9.10以降を選択
+= BlueXP  ソフトウェアの更新を使用してONTAPのバージョンを比較し、メリットとリスクを確認
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/
 
 
 [role="lead"]
-ストレージシステムのONTAPバージョンを選択する前に、メリットを特定し、ONTAPターゲットバージョンに関連するリスクを理解しておくことが非常に重要です。
+ストレージシステムのONTAPバージョンを更新する前に、ONTAPターゲットバージョンのメリットとリスクを比較し、理解しておくことが非常に重要です。
 
 ターゲットバージョンを選択して現在のバージョンと比較すると、ONTAPの特定のバージョンに更新するメリットを確認できます。また、ONTAPの特定のバージョンへの更新時に解決されるリスクと新しいリスク（存在する場合）を確認することもできます。
 

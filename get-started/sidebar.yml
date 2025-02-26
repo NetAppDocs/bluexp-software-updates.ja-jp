@@ -1,8 +1,8 @@
 ---
 section: get-started
-title: ONTAPアップデートを開始する
+title: BlueXP  ソフトウェアの更新を開始する
 entries:
-- title: ONTAPの更新の詳細
+- title: BlueXP  ソフトウェアアップデートの詳細
   url: "/get-started/software-updates.html"
 - title: 前提条件
   url: "/get-started/prerequisites-ontap-update.html"

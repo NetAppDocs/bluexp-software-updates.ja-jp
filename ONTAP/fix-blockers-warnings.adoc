@@ -4,7 +4,7 @@ permalink: ONTAP/fix-blockers-warnings.html
 keywords: fix ontap blockers and warnings, ontap update precheck, acknowledge warnings 
 summary: ONTAPブロッカーを修正し、ONTAPの更新を完了できない警告を承認します。 
 ---
-= ONTAPブロッカーの修正と承認
+= ONTAPをアップグレードする前に、BlueXP  ソフトウェアアップデートを使用してすべてのブロッカーを修正
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/
@@ -20,7 +20,7 @@ ONTAPストレージシステムのONTAPターゲットバージョンを特定�
 +
 ソフトウェアの更新が必要なクラスタのリストが表示されます。
 
-. ストレージシステムのONTAPターゲットのバージョンを確認します。ONTAPターゲットバージョンの識別については、を参照してください link:../ONTAP/choose-ontap-910-later.html["ONTAPターゲットのバージョン9.10以降を選択"]。
+. ストレージシステムのONTAPターゲットのバージョンを確認します。ONTAPターゲットバージョンの識別については、を参照してください link:../ONTAP/choose-ontap-910-later.html["BlueXP  ソフトウェアの更新を使用してONTAPのバージョンを比較し、メリットとリスクを確認"]。
 . ONTAPのターゲットバージョンを決定したら、*[更新の準備]*をクリックして更新プロセスを開始します。
 +
 ブロッカーと警告のリストが表示されます。

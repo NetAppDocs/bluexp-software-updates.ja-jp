@@ -11,7 +11,7 @@ summary: ONTAPストレージシステムのシームレスかつ迅速な更新
 
 
 [role="lead"]
-ここでは、BlueXP  ソフトウェアの更新を開始するために必要な手順の概要を示します。各ステップ内のリンクから、詳細が記載されたページに移動できます。
+ここでは、BlueXP  ソフトウェアの更新を迅速に開始するために必要な手順の概要を示します。各ステップ内のリンクから、詳細が記載されたページに移動できます。
 
 .image:https://raw.githubusercontent.com/NetAppDocs/common/main/media/number-1.png["1つ"] 前提条件の確認
 [role="quick-margin-para"]

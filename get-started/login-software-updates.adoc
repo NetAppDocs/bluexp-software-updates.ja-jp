@@ -4,16 +4,16 @@ permalink: get-started/login-software-updates.html
 keywords: bluexp login, software updates log in 
 summary: ログインして、BlueXP  ソフトウェアアップデートサービスにアクセスします。 
 ---
-= BlueXP  ソフトウェアアップデートへのアクセス
+= BlueXP  ソフトウェアアップデートにアクセスしてONTAPを更新
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/
 
 
 [role="lead"]
-BlueXP  ソフトウェアの更新を使用するには、NetApp BlueXP  にログインします。
+BlueXP  ソフトウェアアップデートにアクセスするには、BlueXP  にログインする必要があります。
 
-BlueXPにログインするには、NetApp Support Site のクレデンシャルを使用するか、Eメールとパスワードを使用してネットアップクラウドへのログインにサインアップします。link:https://docs.netapp.com/us-en/bluexp-setup-admin/task-logging-in.html["ログインの詳細については、こちらをご覧ください"^]です。
+ログインするには、NetAppサポートサイトのクレデンシャルを使用するか、Eメールアドレスとパスワードを使用してNetAppクラウドログインにサインアップします。link:https://docs.netapp.com/us-en/bluexp-setup-admin/task-logging-in.html["ログインの詳細については、こちらをご覧ください"^]です。
 
 .手順
 . Webブラウザを開き、に移動します link:https://console.bluexp.netapp.com/["BlueXPコンソール"^]。

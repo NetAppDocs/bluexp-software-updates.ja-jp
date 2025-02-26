@@ -1,7 +1,7 @@
 ---
 sidebar: sidebar 
 permalink: release-notes/whats-new.html 
-keywords: software updates, ontap update 
+keywords: 'software updates, ontap update, what"s new, enhancements' 
 summary: BlueXP  ソフトウェアの更新で導入された新機能と機能拡張について説明します。 
 ---
 = BlueXP  ソフトウェアアップデートの新機能

@@ -1,17 +1,17 @@
 ---
 sidebar: sidebar 
 permalink: get-started/prerequisites-ontap-update.html 
-keywords: prerequisites for ontap update, ontap update requirements, ontap update versions 
+keywords: prerequisites for ontap update, ontap update requirements, ontap update versions, prepare for ontap update 
 summary: ONTAPの更新に進む前に、前提条件と要件を確認してください。 
 ---
-= BlueXP  ソフトウェアの更新を使用してONTAPを更新するための前提条件
+= BlueXP  ソフトウェアの更新を使用してONTAPを更新する準備
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/
 
 
 [role="lead"]
-まず、運用環境、ログイン、ネットワークアクセス、Webブラウザの準備状況を確認します。
+ONTAPの更新に進む前に、前提条件と要件を確認する必要があります。BlueXP  ソフトウェアの更新を使用して、運用環境、ログイン、ネットワークアクセス、およびWebブラウザの準備状況を確認できます。
 
 BlueXP  ソフトウェアの更新を使用するには、ご使用の環境がすべての要件を満たしていることを確認する必要があります。
 
